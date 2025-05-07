@@ -1,0 +1,146 @@
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\NewsPortal.dll.config
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\NewsPortal.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\NewsPortal.pdb
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\csc.exe
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\csc.exe.config
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\csc.rsp
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\csi.exe
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\csi.exe.config
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\csi.rsp
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.AppContext.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Collections.Immutable.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Console.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Globalization.Calendars.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.IO.Compression.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.IO.FileSystem.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Net.Http.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Net.Sockets.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Reflection.Metadata.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.ValueTuple.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Xml.XPath.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\vbc.exe
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\vbc.exe.config
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\vbc.rsp
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\VBCSCompiler.exe
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\roslyn\VBCSCompiler.exe.config
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\EntityFramework.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\EntityFramework.SqlServer.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\Newtonsoft.Json.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\System.Net.Http.Formatting.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\System.Web.Http.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\System.Web.Http.WebHost.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\EntityFramework.xml
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\EntityFramework.SqlServer.xml
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\Newtonsoft.Json.xml
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\System.Net.Http.Formatting.xml
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\System.Web.Http.xml
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\System.Web.Http.WebHost.xml
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\obj\Debug\NewsPortal.csproj.AssemblyReference.cache
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\obj\Debug\NewsPortal.csproj.CoreCompileInputs.cache
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\obj\Debug\NewsPortal.csproj.Up2Date
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\obj\Debug\NewsPortal.dll
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\obj\Debug\NewsPortal.pdb
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\obj\Debug\NewsPortal.Migrations.NewsDB.resources
+E:\Semester 12 th\Advance dot NET\Tasks\NewsPortal\NewsPortal\obj\Debug\NewsPortal.csproj.GenerateResource.cache
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\NewsPortal.dll.config
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\NewsPortal.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\NewsPortal.pdb
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\csc.exe
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\csc.exe.config
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\csc.rsp
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\csi.exe
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\csi.exe.config
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\csi.rsp
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.AppContext.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Console.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Net.Http.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\vbc.exe
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\vbc.exe.config
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\vbc.rsp
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\EntityFramework.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\Newtonsoft.Json.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\System.Web.Http.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\EntityFramework.xml
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\Newtonsoft.Json.xml
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\System.Web.Http.xml
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\obj\Debug\NewsPortal.csproj.AssemblyReference.cache
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\obj\Debug\NewsPortal.csproj.CoreCompileInputs.cache
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\obj\Debug\NewsPortal.csproj.Up2Date
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\obj\Debug\NewsPortal.dll
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\obj\Debug\NewsPortal.pdb
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\obj\Debug\NewsPortal.Migrations.NewsDB.resources
+C:\Users\Rohan\Downloads\NewsPortal\NewsPortal\obj\Debug\NewsPortal.csproj.GenerateResource.cache
